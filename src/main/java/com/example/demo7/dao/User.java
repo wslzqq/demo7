@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class User {
 
-    //用户信息啊啊
+    //用户信息
     private String username;
     private String password;
     private String name;
